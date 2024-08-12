@@ -1,1 +1,1 @@
-# aws-containers-vpc
+# AWS-Containers VPC example
