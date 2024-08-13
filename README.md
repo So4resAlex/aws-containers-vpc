@@ -1,3 +1,6 @@
+Diagrama inicial da VPC
+![Flow](/docs/VPC.png)
+
 ## Requirements
 
 No requirements.
