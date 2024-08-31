@@ -1,5 +1,5 @@
 Diagrama inicial da VPC
-![Flow](/docs/vpc.png)
+![Flow](/docs/VPCs.png)
 
 ## Requirements
 
