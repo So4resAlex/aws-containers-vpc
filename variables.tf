@@ -5,7 +5,7 @@ variable "project_name" {
 }
 
 variable "region" {
-  description = "AWS Region where the resources will be created" 
+  description = "AWS Region where the resources will be created"
 }
 
 
